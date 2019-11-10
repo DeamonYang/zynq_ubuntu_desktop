@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\X_Ubuntu.sdk\fsbl\Debug\fsbl.elf
+	H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\X_Ubuntu.runs\impl_1\lcd_dis_system_top.bit
+	H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\u-boot.elf
+}

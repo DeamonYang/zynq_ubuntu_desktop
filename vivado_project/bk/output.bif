@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]C:\X_demo\X_Ubuntu\X_Ubuntu\X_Ubuntu.sdk\fsbl\Debug\fsbl.elf
+	C:\X_demo\X_Ubuntu\X_Ubuntu\X_Ubuntu.runs\impl_1\ps_pl_hdmi_wrapper.bit
+	C:\X_demo\X_Ubuntu\X_Ubuntu\u-boot.elf
+}

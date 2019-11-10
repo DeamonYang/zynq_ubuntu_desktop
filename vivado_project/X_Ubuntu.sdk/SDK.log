@@ -1,0 +1,74 @@
+12:47:25 INFO  : Launching XSDB server: xsdb.bat E:/Xilinx_Vivado2015/SDK/2015.4/scripts/xsdb/xsdb/xsdb-server.tcl
+12:47:27 INFO  : XSDB server has started successfully.
+12:47:30 INFO  : Restoring local repository preferences: 
+		 C:\X_demo\X_Ubuntu\X_Ubuntu\device-tree-xlnx-master
+12:47:30 ERROR : (XSDB Server)ERROR: [Hsi 55-1550] Repository Directory C:/X_demo/X_Ubuntu/X_Ubuntu/device-tree-xlnx-master doesn't exist in the disk
+
+12:47:30 ERROR : Internal error. Unable to add C:\X_demo\X_Ubuntu\X_Ubuntu\device-tree-xlnx-master as a repository.
+12:47:30 INFO  : Processing command line option -hwspec H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.sdk/ps_pl_hdmi_wrapper.hdf.
+12:49:03 INFO  : Saving repository preferences.
+12:49:03 INFO  : Reading in cores from local repositories: 
+		 H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\device-tree-xlnx-master
+12:49:03 ERROR : (XSDB Server)ERROR: [Hsi 55-1550] Repository Directory C:/X_demo/X_Ubuntu/X_Ubuntu/device-tree-xlnx-master doesn't exist in the disk
+
+12:49:04 ERROR : Internal error. Unable to add H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\device-tree-xlnx-master as a repository.
+12:49:04 INFO  : Cleaning BSP projects in the workspace.
+12:52:05 INFO  : No changes in MSS file content so not generating sources.
+15:40:16 INFO  : Invoking Bootgen: bootgen -image output.bif -o G:\ZYNQ\MicroZus01\Demo\X_demo_7010\X_demo\X_Ubuntu\X_Ubuntu\BOOT.bin -w on
+15:40:17 INFO  : Bootgen command execution is done.
+16:14:55 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin
+16:14:55 INFO  : Overwriting existing bif file H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\output.bif
+16:14:56 INFO  : Bootgen command execution is done.
+21:58:35 INFO  : Launching XSDB server: xsdb.bat E:/Xilinx_Vivado2015/SDK/2015.4/scripts/xsdb/xsdb/xsdb-server.tcl
+21:58:38 INFO  : XSDB server has started successfully.
+21:58:44 INFO  : Restoring local repository preferences: 
+		 H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\device-tree-xlnx-master
+21:58:44 INFO  : Processing command line option -hwspec H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.sdk/lcd_dis_system_top.hdf.
+21:58:53 INFO  : BSP Project P/device_tree_bsp_0 has been successfully migrated.
+22:09:50 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+22:09:52 INFO  : Bootgen command execution is done.
+10:35:04 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+10:35:06 INFO  : Bootgen command execution is done.
+13:33:48 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+13:33:49 INFO  : Bootgen command execution is done.
+15:26:52 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+15:26:53 INFO  : Bootgen command execution is done.
+16:33:32 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1573288369904,  Project:1573221074394
+16:33:32 INFO  : Project lcd_dis_system_top_hw_platform_0's source hardware specification located at H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.sdk/lcd_dis_system_top.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+16:33:34 INFO  : Copied contents of H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.sdk/lcd_dis_system_top.hdf into \lcd_dis_system_top_hw_platform_0\system.hdf.
+16:33:37 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+16:33:39 INFO  : Clearing existing target manager status.
+16:33:42 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+16:33:42 WARN  : Linker script will not be updated automatically. Users need to update it manually.
+16:34:04 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+16:34:06 INFO  : Bootgen command execution is done.
+16:49:13 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+16:49:15 INFO  : Bootgen command execution is done.
+19:30:50 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1573298913206,  Project:1573288369904
+19:30:50 INFO  : Project lcd_dis_system_top_hw_platform_0's source hardware specification located at H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.sdk/lcd_dis_system_top.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+19:30:54 INFO  : Copied contents of H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.sdk/lcd_dis_system_top.hdf into \lcd_dis_system_top_hw_platform_0\system.hdf.
+19:30:57 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+19:30:58 INFO  : Clearing existing target manager status.
+19:30:58 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+19:30:58 WARN  : Linker script will not be updated automatically. Users need to update it manually.
+19:31:16 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+19:31:17 INFO  : Bootgen command execution is done.
+12:10:22 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1573357396158,  Project:1573298913206
+12:10:22 INFO  : Project lcd_dis_system_top_hw_platform_0's source hardware specification located at H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.sdk/lcd_dis_system_top.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+12:10:26 INFO  : Copied contents of H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.sdk/lcd_dis_system_top.hdf into \lcd_dis_system_top_hw_platform_0\system.hdf.
+12:10:30 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+12:10:31 INFO  : Clearing existing target manager status.
+12:10:31 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+12:10:31 WARN  : Linker script will not be updated automatically. Users need to update it manually.
+12:10:48 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+12:10:50 INFO  : Bootgen command execution is done.
+12:16:12 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+12:16:13 INFO  : Bootgen command execution is done.
+12:29:23 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+12:29:24 INFO  : Bootgen command execution is done.
+12:59:57 INFO  : Invoking Bootgen: bootgen -image output.bif -o H:\FPGA\ZYNQ_PSPL\X_Ubuntu_lcd\X_Ubuntu\BOOT.bin -w on
+12:59:58 INFO  : Bootgen command execution is done.
+15:10:30 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 

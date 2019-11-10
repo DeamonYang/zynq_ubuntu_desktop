@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  "../../../X_Ubuntu.srcs/sources_1/new/lcd_lvds.sv" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axi_infrastructure_v1_1/hdl/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axi_vdma_v6_2/hdl/src/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axis_infrastructure_v1_1/hdl/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/processing_system7_bfm_v2_0/hdl"
+sv xil_defaultlib  "../../../X_Ubuntu.srcs/sources_1/new/lvds_lcd_controller.sv" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axi_infrastructure_v1_1/hdl/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axi_vdma_v6_2/hdl/src/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axis_infrastructure_v1_1/hdl/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/processing_system7_bfm_v2_0/hdl"
+sv xil_defaultlib  "../../../X_Ubuntu.srcs/sources_1/new/vga_drv.sv" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axi_infrastructure_v1_1/hdl/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axi_vdma_v6_2/hdl/src/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axis_infrastructure_v1_1/hdl/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/processing_system7_bfm_v2_0/hdl"
+verilog xil_defaultlib  "../../../X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axi_infrastructure_v1_1/hdl/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axi_vdma_v6_2/hdl/src/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/axis_infrastructure_v1_1/hdl/verilog" --include "../../../X_Ubuntu.ip_user_files/ipstatic/processing_system7_bfm_v2_0/hdl"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

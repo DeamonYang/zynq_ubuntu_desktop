@@ -1,0 +1,4 @@
+Language File-Name           IP        Library         File-Path                                                         
+Verilog, clk_lvds_clk_wiz.v, clk_lvds, xil_defaultlib, ../../../../X_Ubuntu.srcs/sources_1/ip/clk_lvds/clk_lvds_clk_wiz.v
+Verilog, clk_lvds.v,         clk_lvds, xil_defaultlib, ../../../../X_Ubuntu.srcs/sources_1/ip/clk_lvds/clk_lvds.v        
+Verilog, glbl.v,             *,        xil_defaultlib, glbl.v                                                            

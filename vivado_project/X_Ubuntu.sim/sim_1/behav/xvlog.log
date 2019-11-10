@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sources_1/new/lcd_lvds.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lcd_lvds
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sources_1/new/lvds_lcd_controller.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lvds_lcd_controller
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sources_1/new/vga_drv.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vga_drv
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lvds_lcd_controller_tb
+ERROR: [VRFC 10-51] logic is an unknown type [H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv:28]
+ERROR: [VRFC 10-51] logic is an unknown type [H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv:29]
+ERROR: [VRFC 10-51] logic is an unknown type [H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv:30]
+ERROR: [VRFC 10-51] logic is an unknown type [H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv:32]
+ERROR: [VRFC 10-51] logic is an unknown type [H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv:33]
+ERROR: [VRFC 10-51] logic is an unknown type [H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv:34]
+ERROR: [VRFC 10-51] logic is an unknown type [H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv:36]
+ERROR: [VRFC 10-51] logic is an unknown type [H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv:37]
+ERROR: [VRFC 10-51] logic is an unknown type [H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv:38]
+ERROR: [VRFC 10-1040] module lvds_lcd_controller_tb ignored due to previous errors [H:/FPGA/ZYNQ_PSPL/X_Ubuntu_lcd/X_Ubuntu/X_Ubuntu.srcs/sim_1/new/lvds_lcd_controller_tb.sv:23]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="C:\X_demo\X_Ubuntu\X_Ubuntu\X_Ubuntu.runs\impl_1\ps_pl_hdmi_wrapper.bit" key="ps_pl_hdmi_wrapper_hw_platform_0-bitFile"/>
+	<item value="Local" key="ps_pl_hdmi_wrapper_hw_platform_0-target"/>
+	<item value="ps_pl_hdmi_wrapper_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="false" key="ps_pl_hdmi_wrapper_hw_platform_0-partial_bit"/>
+	<item value="Auto Detect" key="ps_pl_hdmi_wrapper_hw_platform_0-device"/>
+	<item value="" key="ps_pl_hdmi_wrapper_hw_platform_0-bmmFile"/>
+</section>
